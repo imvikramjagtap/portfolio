@@ -216,3 +216,11 @@ section {
   background: #0678e3;
 }
 
+/* ---------------------------------------back tp top------------------- */
+
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 99;
+}
